@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+#myBtn{
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(44, 196, 33, 0.3);
+}
+
+#myBtn:hover {
+  box-shadow: 7px 7px 15px rgba(234, 5, 165, 0.4); /* Shadow on hover */
+}

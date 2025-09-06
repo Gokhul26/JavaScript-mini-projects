@@ -1,0 +1,19 @@
+#myAge{
+    text-align: center;
+}
+
+#but{
+    text-align: center;
+    cursor: pointer;
+}
+
+#age{
+    background-color: aqua;
+    color: blue;
+}
+#but:hover{
+    background-color: cadetblue;
+    text-decoration: wavy;
+    border-style: outset;
+    box-shadow: inset 2px 2px 5px rgba(234, 3, 3, 0.3);
+}

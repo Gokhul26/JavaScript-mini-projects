@@ -1,0 +1,26 @@
+#zero{
+    text-align: center;
+    display: block;
+    font-size: 10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#myDiv{
+    text-align: center;
+    padding: 30px 50px;
+}
+
+.btns{
+    padding: 10px 20px ;
+    margin-inline-start: 10px;
+    background-color: brown;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btns:hover{
+    background-color: cadetblue;
+    text-decoration: wavy;
+    border-style: outset;
+    box-shadow: inset;
+}
